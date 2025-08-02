@@ -1,3 +1,9 @@
+# personal
+grafana_storage/
+postgres_data/
+tmp/
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
